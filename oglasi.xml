@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oglasi>
+    <oglas>
+        <kategorija tip="mobilni-telefon" />
+        <datumIsteka>22.12.2022.</datumIsteka>
+        <cena valuta="RSD">20.000</cena>
+        <tekst>Prodajem telefon, u odlicnom stanju</tekst>
+        <oznaka atribut="marka">Iphone</oznaka>
+        <oznaka atribut="model">7+</oznaka>
+        <oznaka atribut="ram memorija">3</oznaka>
+        <oznaka atribut="op sistem">IOS</oznaka>
+        <email tip="privatni">teodor.stankovic@gmail.com</email>
+        <email tip="sluzbeni">teodorst2000@polovniautomobili.rs</email>
+    </oglas>
+</oglasi>
